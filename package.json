@@ -54,7 +54,7 @@
     "ncp": "2.0.0",
     "node-geocoder": "3.9.1",
     "node-version-data": "1.0.1",
-    "octonode": "0.7.5",
+    "octonode": "0.7.6",
     "request": "2.72.0",
     "require-dir": "0.3.0",
     "semver": "5.1.0",
